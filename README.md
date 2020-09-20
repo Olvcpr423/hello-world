@@ -14,6 +14,6 @@ Run it to `print`'`hello, world`'.
 
 ## 粵語 - 中華人民共和國香港特別行政區
 
-哩個係一個基於 Python 嘅 hello-world 程式。
+呢度係一個基於 Python 嘅 hello-world 程式。
 
 執行佢來打印（`print`）“`hello, world`”。
